@@ -51,3 +51,6 @@ Control your Proxmox VMs with your ESP8266
 
 ### 6. Update Arduino Code
 Now update the Variables in the Arduino Code and Execute it. It should work.
+
+## Credits
+https://www.survivingwithandroid.com/invoke-https-rest-json-api-esp8266/
