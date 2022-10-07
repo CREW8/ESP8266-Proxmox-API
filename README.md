@@ -3,12 +3,12 @@ Control your Proxmox VMs with your ESP8266
 
 ## How to use:
 1. Create an API User on your Proxmox Machine (as shown below)
-2. Download Code and Update the Variables
+2. Download Code, install the Libraries from the Library-Manager and Update the Variables
 3. Have Fun!
 
 ## Important:
 > More Information to the Permissions and API Commands can be found here: https://pve.proxmox.com/pve-docs/api-viewer/index.html
-> This Code can only do POST-Requests as the Proxmox API needs another type of Authetication for GET-Requests. 
+> This Code can only do POST, PUT or DELETE-Requests as the Proxmox API needs another type of Authetication for GET-Requests. 
 
 ## Extended Instructions:
 ### 1. Go to `Datacenter` in the List on the left
